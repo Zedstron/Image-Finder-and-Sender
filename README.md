@@ -1,3 +1,5 @@
+#NOTE: The use of the work is only permitted for education use only, the author that means i, am not responsible for any illegal use of the work!
+
 # Image-Finder-and-Sender
 A batch file script written to automatically traverse all the file system of windows operating system and look for images (Compaitaible with Windows 10) and then transfer the data either in LAN to other machine or via internet to some server.
 
