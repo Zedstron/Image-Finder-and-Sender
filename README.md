@@ -35,3 +35,6 @@ How to Run for Internet transfer?
 How to just dump image locations in file system?
 1) Just open the scan.bat code and set the operation flag to 0 (dump mode)
 2) double click or invoke the file no other setup is needed
+
+if you are interested to have some more reliable and advance control over transfer then here is another repository of mine, it is designed in C# to accomodate the special featuers
+https://github.com/Zedstron/Yet_another_advance_image_scanner_and_sender
